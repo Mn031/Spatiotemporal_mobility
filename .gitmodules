@@ -1,0 +1,6 @@
+[submodule "fedavg"]
+	path = fedavg
+	url = https://github.com/Mn031/Spatiotemporal_mobility_fedavg.git
+[submodule "OPA"]
+	path = OPA
+	url = https://github.com/Mn031/Spatiotemporal_mobility_OPA.git
